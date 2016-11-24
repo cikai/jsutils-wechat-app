@@ -1,2 +1,3 @@
-# wechat-oauth
-Wechat OAuth 2.0
+# jsutils-wechat-app
+JSUitls Wechat App
+
